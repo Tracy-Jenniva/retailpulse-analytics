@@ -1,0 +1,21 @@
+StoreKey;StoreName;Country;Region;Format
+S001;Store 1;Spain;North;Convenience
+S002;Store 2;Germany;West;Supermarket
+S003;Store 3;France;East;Hypermarket
+S004;Store 4;Italy;West;Supermarket
+S005;Store 5;France;East;Hypermarket
+S006;Store 6;France;East;Supermarket
+S007;Store 7;Italy;East;Convenience
+S008;Store 8;Italy;South;Hypermarket
+S009;Store 9;Germany;West;Supermarket
+S010;Store 10;Germany;East;Supermarket
+S011;Store 11;Germany;North;Supermarket
+S012;Store 12;Germany;South;Hypermarket
+S013;Store 13;Germany;West;Hypermarket
+S014;Store 14;Italy;East;Hypermarket
+S015;Store 15;France;North;Convenience
+S016;Store 16;Germany;West;Convenience
+S017;Store 17;Germany;West;Hypermarket
+S018;Store 18;France;South;Supermarket
+S019;Store 19;Germany;West;Convenience
+S020;Store 20;France;South;Hypermarket

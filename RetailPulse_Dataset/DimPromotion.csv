@@ -1,0 +1,11 @@
+PromotionKey;PromotionName;PromotionType;DiscountRate
+PR01;Promo 1;Bundle;0,15
+PR02;Promo 2;Seasonal;0,1
+PR03;Promo 3;Bundle;0,15
+PR04;Promo 4;Bundle;0,1
+PR05;Promo 5;Bundle;0,2
+PR06;Promo 6;Bundle;0,05
+PR07;Promo 7;Seasonal;0,2
+PR08;Promo 8;Seasonal;0,1
+PR09;Promo 9;Seasonal;0,1
+PR10;Promo 10;Discount;0,1
