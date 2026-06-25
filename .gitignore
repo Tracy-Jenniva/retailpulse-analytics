@@ -1,0 +1,8 @@
+# Exclure les fichiers de données utilisateur locales de Power BI
+.pbi/
+*.log
+*.tmp
+
+# Exclure les dossiers de cache
+**/bin/
+**/obj/
